@@ -8,6 +8,14 @@ Marvel Reading Atlas is a React 19 comic-discovery and reading-planning app buil
 
 [**Open the live app**](https://marvel-starter-phi.vercel.app/) · [Architecture](./ARCHITECTURE.md) · [Browser tests](./e2e/reading-atlas.spec.js)
 
+<a href="https://marvel-starter-phi.vercel.app/">
+  <img
+    src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://marvel-starter-phi.vercel.app/"
+    alt="Marvel Reading Atlas live interface showing comic discovery and reading-planning workflow"
+    width="100%"
+  />
+</a>
+
 ## What the product does
 
 - search 37,500+ indexed Marvel issues by title
